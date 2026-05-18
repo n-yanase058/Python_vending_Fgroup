@@ -4,7 +4,8 @@ import time
 import os
 from collections import defaultdict
 
-# ---------- データクラス ----------
+
+# ---------- データクラス ----------　　test
 
 class Item:
     def __init__(self, code, name, price, stock):
@@ -183,3 +184,6 @@ class VendMachineController:
 
 if __name__ == "__main__":
     VendMachineController().run()
+
+
+    #sakima
